@@ -1,0 +1,274 @@
+.bag-img {
+    background-image: url(imgs/img1.png);
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.h1Долго {
+
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.fine-img {
+    border-right: 1px solid wheat;
+}
+
+.fina-absalut {
+    padding-top: 350px;
+}
+
+.h1К {
+/* p / 21r */
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+/* or 29px */
+
+text-align: center !important;
+
+/* accent */
+
+color: #333333;
+}
+.pНастоящая{
+
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+/* accent */
+
+color: #333333;
+}
+.imgs-cadrt{
+    width: 100%;
+height: 280px;
+}
+.h1Не{
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+/* or 29px */
+
+text-align: center;
+
+/* white */
+
+color: #FFFFFF;
+}
+.h1Посетите{
+    
+/* p-heading / 30b */
+
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+/* white */
+
+color: #FFFFFF;
+}
+.pLorem{
+    
+/* p / 18r */
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+text-align: center;
+
+/* white */
+
+color: #FFFFFF;
+}
+.h1Полезные{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+/* or 29px */
+
+text-align: center;
+
+/* accent */
+
+color: #333333;  
+}
+
+.h1Лучшие{
+    font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+/* accent */
+
+color: #333333;
+}
+
+.h1ojjo{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+/* or 29px */
+
+text-align: center;
+
+/* accent */
+
+color: #333333;
+}
+.h1Мы{
+    font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+/* accent */ 
+
+color: #333333; 
+}
+.imgStyle{
+    height: 300px;
+}
+.h1Полезные{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+/* or 29px */
+
+text-align: center;
+
+/* white */
+
+color: #FFFFFF;
+}
+.h1Эксклюзивная{
+    font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+/* white */
+
+color: #FFFFFF;
+}
+.h1Личный{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+
+/* white */
+
+color: #FFFFFF
+}
+.rowsCadr h1{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+text-align: center;
+
+/* accent */
+
+color: #333333;
+}
+.rowsCadr p{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+text-align: center;
+
+/* accent */
+
+color: #333333;
+}
+.rowh1{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rowh1 h1{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+text-decoration-line: underline;
+
+/* accent */
+
+color: #333333;
+}
+
+.rowsRectangles  img{
+    width: 160px;
+    height: 120px;
+}
+.inputStyle{
+    width: 100%;
+}
+.myCardBorder{
+    width: 100%;
+}
